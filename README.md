@@ -2,7 +2,7 @@
 
 A static case study of **Ravi Myneni's** shipped redesign of the **Chemille®** B2B website for Celanese, [askchemille.com](https://www.askchemille.com/), aligned to the Celanese Design System. It covers guided AI grade search and competitor-grade replacement. By [Ravi Myneni](https://www.linkedin.com/in/ravimyneni/), Sr UX Designer at Celanese.
 
-The redesign is live. The Metrics section reports its measured results: 22% higher customer retention, 17% more lead conversions, a 13% uplift in international revenue, and, from the personalised dashboard, 30% less time per procurement session, 20% more repeat transactions and 28% higher client satisfaction.
+The redesign is live. The Metrics section reports its measured results: 22% higher customer retention, 17% more lead conversions, a 13% uplift in international revenue, and, from the personalized dashboard, 30% less time per procurement session, 20% more repeat transactions and 28% higher client satisfaction.
 
 ## View it
 
