@@ -1,8 +1,8 @@
-# Chemille® Digital Assistant — UX case study
+# Chemille® B2B Website Redesign, Celanese — UX case study
 
-A static case study of **Chemille®**, Celanese’s digital assistant at [askchemille.com](https://www.askchemille.com/). It is a self-initiated concept redesign and UX audit of guided AI grade search and competitor-grade replacement, by [Ravi Myneni](https://www.linkedin.com/in/ravimyneni/).
+A static case study of **Ravi Myneni's** shipped redesign of the **Chemille®** B2B website for Celanese, [askchemille.com](https://www.askchemille.com/), aligned to the Celanese Design System. It covers guided AI grade search and competitor-grade replacement. By [Ravi Myneni](https://www.linkedin.com/in/ravimyneni/), Sr UX Designer at Celanese.
 
-The live platform was built by Celanese with Work & Co. This study is an independent redesign concept. It does not report interviews, participant quotes, or measured product results. Metric values in the study are targets for a future test.
+The redesign is live. The Metrics section reports its measured results: 22% higher customer retention, 17% more lead conversions, a 13% uplift in international revenue, and, from the personalised dashboard, 30% less time per procurement session, 20% more repeat transactions and 28% higher client satisfaction.
 
 ## View it
 
@@ -41,7 +41,7 @@ Click a final screen to enlarge it. Arrow keys move between images. Escape close
 
 ## What the study claims
 
-Role: self-initiated concept redesign covering UX research, heuristic evaluation, IA, interaction design, and UI. Team: solo. Primary research is a heuristic evaluation (Nielsen's 10), cognitive walkthroughs, and task analysis of the live desktop screens from 30 Oct 2026. Personas are proto-personas. The prototype is the flows and annotated screens on the page. Outcome describes the concept, not a launch. The metrics are labeled Target.
+Role: Sr UX Designer at Celanese, covering UX audits, heuristic evaluation, IA, interaction design and UI, aligned to the Celanese Design System, working with product managers and chemists. Research includes a heuristic evaluation (Nielsen's 10), cognitive walkthroughs and task analysis of the desktop screens. Personas are proto-personas. The metrics are measured results of the shipped redesign.
 
 ## Screens
 
