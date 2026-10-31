@@ -77,7 +77,6 @@
   }
 
   /* Page layout only. Palette and type stay in case-study.css. */
-  .cs-hero .wrap{padding-left:168px}
   .cs-hero h1,
   .cs-hero .lede{max-width:none}
   .cs-hero h1{margin:24px 0 0}
@@ -150,7 +149,6 @@
     #personas .persona{flex-basis:calc((100% - 144px) / 2)}
   }
   @media (max-width:900px){
-    .cs-hero .wrap{padding-left:24px}
     .final-grid{grid-template-columns:1fr}
     .final-shot.is-tall{grid-column:auto}
   }
@@ -212,17 +210,6 @@
   <div class="body">
     <p class="callout">How might I help a design engineer turn a plain-language need, or a competitor's grade, into a short, trustworthy list of Celanese grades, and know exactly when to bring in a human expert?</p>
     <p>Engineers usually start with a loose need ("heat-resistant, glass-filled, for a fuel cap"), a spec number, or a competitor's grade name, not a Celanese trade name. The catalog is deep: the live search lists 2,115 grades and the resource library 448 documents, each grade carrying dense data on chemistry, filler, processing, chemical resistance and certifications. Keyword search and long filter panels push the translation work onto the user.</p>
-    <div class="table-scroll">
-      <table>
-        <caption>Product facts. Designer: Ravi Myneni, Sr UX Designer, Celanese.</caption>
-        <thead><tr><th>Fact</th><th>Detail</th></tr></thead>
-        <tbody>
-          <tr><th scope="row">Product</th><td>Chemille® Digital Assistant by Celanese, <a href="https://www.askchemille.com/" target="_blank" rel="noopener noreferrer">askchemille.com</a></td></tr>
-          <tr><th scope="row">Public launch</th><td><a href="https://www.celanese.com/news-and-media/2025/april/celanese-unveils-chemille-intelligent-search-for-precise-material-selection" target="_blank" rel="noopener noreferrer">Celanese press release</a></td></tr>
-          <tr><th scope="row">Focus of my redesign</th><td>Guided search: query, clarifying question, ranked results with % match, grade detail, quote or expert</td></tr>
-        </tbody>
-      </table>
-    </div>
     <div class="grid g3">
       <article class="card"><h3>Four ways in</h3><p>Users arrive from alternatives, application, filters, or a live expert, as the site's FAQ lists them. The front door has to honor all four.</p></article>
       <article class="card"><h3>Honest AI output</h3><p>The site labels chemical-resistance data as guidance only, to be validated. A percent match cannot be presented as a specification.</p></article>
@@ -324,8 +311,7 @@
   <div class="body">
     <h3>Search and alternatives</h3>
     <div class="table-scroll">
-      <table>
-        <caption>Search and alternatives.</caption>
+      <table aria-label="Search and alternatives">
         <thead><tr><th>Platform</th><th>Catalog scope</th><th>How you search</th><th>Alternatives</th></tr></thead>
         <tbody>
           <tr><th scope="row"><a href="https://www.askchemille.com/" target="_blank" rel="noopener noreferrer">Chemille® (Celanese)</a></th><td>Celanese Engineered Materials portfolio; 2,115 grades listed in search</td><td>Plain-language AI search that asks clarifying questions and turns intent into filter chips</td><td>Competitor grade in, Celanese grades out with a % match</td></tr>
@@ -339,8 +325,7 @@
 
     <h3>Compare, help, and access</h3>
     <div class="table-scroll">
-      <table>
-        <caption>Compare, human help, and access.</caption>
+      <table aria-label="Compare, human help, and access">
         <thead><tr><th>Platform</th><th>Compare</th><th>Human help</th><th>Access and cost</th></tr></thead>
         <tbody>
           <tr><th scope="row"><a href="https://www.askchemille.com/" target="_blank" rel="noopener noreferrer">Chemille® (Celanese)</a></th><td>Side-by-side compare with downloadable summaries (per tutorial playlist)</td><td>24/5 engineer-to-engineer live chat, email, request a quote</td><td>Free; free account unlocks chat, documents, saved searches, PFAS alternatives, quotes</td></tr>
